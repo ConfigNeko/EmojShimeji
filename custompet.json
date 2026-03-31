@@ -2,7 +2,7 @@
   {
     "id": "bruce_lee",
     "name": "Bruce Lee",
-    "avatarUrl": "",
+    "avatarUrl": "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/avatar/bruce_lee.webp",
     "frameUrls": ["https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/cs_1.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/cs_2.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/cs_3.webp",
@@ -18,7 +18,7 @@
 {
     "id": "deadpool",
     "name": "Deadpool",
-    "avatarUrl": "",
+    "avatarUrl": "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/avatar/deadpool.webp",
     "frameUrls": ["https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/de_1.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/de_2.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/de_3.webp",
@@ -34,7 +34,7 @@
 {
     "id": "saitama",
     "name": "Saitama",
-    "avatarUrl": "",
+    "avatarUrl": "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/avatar/saitama.webp",
     "frameUrls": ["https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sa_1.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sa_2.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sa_3.webp",
@@ -50,7 +50,7 @@
   {
     "id": "finn",
     "name": "Finn",
-    "avatarUrl": "",
+    "avatarUrl": "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/avatar/finn.webp",
     "frameUrls": [ "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/fi_1.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/fi_2.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/fi_3.webp",
@@ -66,7 +66,7 @@
   {
     "id": "rapunzel",
     "name": "Rapunzel",
-    "avatarUrl": "",
+    "avatarUrl": "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/avatar/rapunzel.webp",
     "frameUrls": [ "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ra_1.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ra_2.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ra_3.webp",
@@ -82,7 +82,7 @@
 {
     "id": "nanami",
     "name": "Nanami",
-    "avatarUrl": "",
+    "avatarUrl": "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/avatar/nanami.webp",
     "frameUrls": [ "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/na_1.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/na_2.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/na_3.webp",
