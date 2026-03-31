@@ -1,6 +1,9 @@
-{
-  "bruce_lee": [
-    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/cs_1.webp",
+[
+  {
+    "id": "bruce_lee",
+    "name": "Bruce Lee",
+    "avatarUrl": "",
+    "frameUrls": ["https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/cs_1.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/cs_2.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/cs_3.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/cs_4.webp",
@@ -8,10 +11,15 @@
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/cs_6.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/cs_7.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/cs_8.webp",
-    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/cs_9.webp"
-  ],
-   "deadpool": [
-    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/de_1.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/cs_9.webp"],
+    "faceSizeRatio": 0.30,
+    "headPositions": [[0.50, 0.37], [0.50, 0.33], [0.50,0.36], [0.51,0.36], [0.50,0.36], [0.50,0.38], [0.47, 0.39], [0.48,0.40], [0.50,0.40]]
+  },
+{
+    "id": "deadpool",
+    "name": "Deadpool",
+    "avatarUrl": "",
+    "frameUrls": ["https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/de_1.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/de_2.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/de_3.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/de_4.webp",
@@ -19,10 +27,15 @@
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/de_6.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/de_7.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/de_8.webp",
-    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/de_9.webp"
-  ],
- "saitama": [
-    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sa_1.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/de_9.webp"],
+    "faceSizeRatio": 0.32,
+    "headPositions": [[0.50, 0.38], [0.48, 0.38], [0.48,0.38], [0.50,0.38], [0.50,0.38], [0.50,0.38], [0.52, 0.36], [0.50,0.40], [0.50,0.38]]
+  },
+{
+    "id": "saitama",
+    "name": "Saitama",
+    "avatarUrl": "",
+    "frameUrls": ["https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sa_1.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sa_2.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sa_3.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sa_4.webp",
@@ -30,10 +43,15 @@
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sa_6.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sa_7.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sa_8.webp",
-    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sa_9.webp"
-  ],
-  "finn": [
-    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/fi_1.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sa_9.webp"],
+    "faceSizeRatio": 0.30,
+    "headPositions": [[0.50, 0.40], [0.50, 0.36], [0.48,0.40], [0.50,0.40], [0.51,0.40], [0.51,0.40], [0.52, 0.40], [0.50,0.40], [0.50,0.40]]
+  },
+  {
+    "id": "finn",
+    "name": "Finn",
+    "avatarUrl": "",
+    "frameUrls": [ "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/fi_1.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/fi_2.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/fi_3.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/fi_4.webp",
@@ -41,10 +59,15 @@
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/fi_6.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/fi_7.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/fi_8.webp",
-    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/fi_9.webp"
-  ],
-   "rapunzel": [
-    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ra_1.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/fi_9.webp"],
+    "faceSizeRatio": 0.30,
+    "headPositions": [[0.50, 0.40], [0.55, 0.36], [0.48,0.40], [0.50,0.40], [0.52,0.40], [0.51,0.40], [0.52, 0.39], [0.50,0.39], [0.51,0.38]]
+  },
+  {
+    "id": "rapunzel",
+    "name": "Rapunzel",
+    "avatarUrl": "",
+    "frameUrls": [ "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ra_1.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ra_2.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ra_3.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ra_4.webp",
@@ -52,6 +75,25 @@
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ra_6.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ra_7.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ra_8.webp",
-    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ra_9.webp"
-  ]
-}
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ra_9.webp"],
+    "faceSizeRatio": 0.30,
+    "headPositions": [[0.49, 0.40], [0.50, 0.41], [0.48,0.40], [0.49,0.40], [0.48,0.40], [0.51,0.40], [0.50, 0.40], [0.50,0.40], [0.51,0.40]]
+  },
+{
+    "id": "nanami",
+    "name": "Nanami",
+    "avatarUrl": "",
+    "frameUrls": [ "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/na_1.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/na_2.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/na_3.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/na_4.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/na_5.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/na_6.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/na_7.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/na_8.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/na_9.webp"],
+    "faceSizeRatio": 0.30,
+    "headPositions": [[0.49, 0.40], [0.54, 0.36], [0.48,0.36], [0.49,0.48], [0.45,0.42], [0.50,0.40], [0.50, 0.40], [0.50,0.40], [0.44,0.38]]
+  }
+
+]
