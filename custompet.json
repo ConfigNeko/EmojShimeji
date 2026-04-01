@@ -157,7 +157,7 @@
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/bl_8.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/bl_9.webp"],
     "faceSizeRatio": 0.30,
-    "headPositions": [[0.49, 0.40], [0.50, 0.40], [0.51,0.40], [0.49,0.39], [0.48,0.38], [0.46,0.37], [0.50, 0.40], [0.50,0.40], [0.50,0.40]]
+    "headPositions": [[0.49, 0.39], [0.50, 0.38], [0.48,0.38], [0.47,0.38], [0.48,0.38], [0.46,0.37], [0.50, 0.40], [0.50,0.40], [0.52,0.38]]
   },
   {
     "id": "len",
@@ -173,7 +173,7 @@
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/le_8.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/le_9.webp"],
     "faceSizeRatio": 0.30,
-    "headPositions": [[0.49, 0.40], [0.50, 0.40], [0.51,0.40], [0.49,0.39], [0.48,0.38], [0.46,0.37], [0.50, 0.40], [0.50,0.40], [0.50,0.40]]
+    "headPositions": [[0.49, 0.40], [0.50, 0.38], [0.51,0.40], [0.49,0.39], [0.48,0.38], [0.46,0.37], [0.50, 0.40], [0.50,0.40], [0.50,0.38]]
   },
   {
     "id": "purrloin",
@@ -189,6 +189,6 @@
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/pu_8.webp",
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/pu_9.webp"],
     "faceSizeRatio": 0.30,
-    "headPositions": [[0.49, 0.40], [0.50, 0.40], [0.51,0.40], [0.49,0.39], [0.48,0.38], [0.46,0.37], [0.50, 0.40], [0.50,0.40], [0.50,0.40]]
+    "headPositions": [[0.49, 0.38], [0.50, 0.40], [0.51,0.40], [0.49,0.38], [0.48,0.38], [0.46,0.37], [0.50, 0.38], [0.50,0.38], [0.50,0.40]]
   }
 ]
