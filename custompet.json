@@ -222,5 +222,21 @@
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/ru_9.webp"],
     "faceSizeRatio": 0.30,
     "headPositions": [[0.50, 0.37], [0.50, 0.38], [0.48,0.37], [0.49,0.36], [0.48,0.38], [0.49,0.37], [0.50, 0.36], [0.50,0.36], [0.50,0.38]]
+  },
+  {
+    "id": "eren",
+    "name": "Eren",
+    "avatarUrl": "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/avatar/eren.webp",
+    "frameUrls": [ "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/er_1.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/er_2.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/er_3.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/er_4.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/er_5.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/er_6.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/er_7.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/er_8.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/er_9.webp"],
+    "faceSizeRatio": 0.30,
+    "headPositions": [[0.50, 0.37], [0.50, 0.38], [0.48,0.37], [0.49,0.36], [0.48,0.38], [0.49,0.37], [0.50, 0.36], [0.50,0.36], [0.50,0.38]]
   }
 ]
