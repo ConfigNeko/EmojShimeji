@@ -190,5 +190,21 @@
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/pu_9.webp"],
     "faceSizeRatio": 0.30,
     "headPositions": [[0.49, 0.36], [0.50, 0.40], [0.51,0.40], [0.49,0.38], [0.48,0.38], [0.46,0.37], [0.50, 0.36], [0.50,0.36], [0.50,0.40]]
+  },
+   {
+    "id": "songoku",
+    "name": "Son Goku",
+    "avatarUrl": "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/avatar/son_goku.webp",
+    "frameUrls": [ "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sg_1.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sg_2.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sg_3.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sg_4.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sg_5.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sg_6.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sg_7.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sg_8.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/sg_9.webp"],
+    "faceSizeRatio": 0.30,
+    "headPositions": [[0.49, 0.36], [0.50, 0.40], [0.51,0.40], [0.49,0.38], [0.48,0.38], [0.46,0.37], [0.50, 0.36], [0.50,0.36], [0.50,0.40]]
   }
 ]
