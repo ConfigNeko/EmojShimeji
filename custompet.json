@@ -238,5 +238,53 @@
     "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/er_9.webp"],
     "faceSizeRatio": 0.30,
     "headPositions": [[0.50, 0.37], [0.50, 0.38], [0.48,0.37], [0.49,0.36], [0.48,0.38], [0.49,0.37], [0.50, 0.36], [0.50,0.36], [0.50,0.38]]
+  },
+  {
+    "id": "osamu_dazai",
+    "name": "Osamu Dazai",
+    "avatarUrl": "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/avatar/osamu_dazai.webp",
+    "frameUrls": [ "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/os_1.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/os_2.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/os_3.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/os_4.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/os_5.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/os_6.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/os_7.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/os_8.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/os_9.webp"],
+    "faceSizeRatio": 0.30,
+    "headPositions": [[0.50, 0.37], [0.50, 0.38], [0.48,0.37], [0.49,0.36], [0.48,0.38], [0.49,0.37], [0.50, 0.36], [0.50,0.36], [0.50,0.38]]
+  },
+  {
+    "id": "peridot",
+    "name": "Peridot",
+    "avatarUrl": "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/avatar/peridot.webp",
+    "frameUrls": [ "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/pe_1.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/pe_2.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/pe_3.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/pe_4.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/pe_5.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/pe_6.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/pe_7.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/pe_8.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/pe_9.webp"],
+    "faceSizeRatio": 0.30,
+    "headPositions": [[0.50, 0.37], [0.50, 0.38], [0.48,0.37], [0.49,0.36], [0.48,0.38], [0.49,0.37], [0.50, 0.36], [0.50,0.36], [0.50,0.38]]
+  },
+  {
+    "id": "lollipop",
+    "name": "Lollipop",
+    "avatarUrl": "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/avatar/lollipop.webp",
+    "frameUrls": [ "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/lo_1.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/lo_2.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/lo_3.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/lo_4.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/lo_5.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/lo_6.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/lo_7.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/lo_8.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/EmojShimeji/refs/heads/main/custom_pet/lo_9.webp"],
+    "faceSizeRatio": 0.30,
+    "headPositions": [[0.50, 0.37], [0.50, 0.38], [0.48,0.37], [0.49,0.36], [0.48,0.38], [0.49,0.37], [0.50, 0.36], [0.50,0.36], [0.50,0.38]]
   }
 ]
